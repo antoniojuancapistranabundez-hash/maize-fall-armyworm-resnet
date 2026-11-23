@@ -10,7 +10,7 @@
 
 # 1. Descripción general
 
-Este repositorio proporciona el flujo de trabajo experimental y los recursos asociados al estudio científico:
+Este repositorio proporciona los recursos asociados y el flujo de trabajo experimental del estudio académico:
 
 «Identificación de daños causados ​​por el gusano cogollero en cultivos de maíz a partir de imágenes de campo capturadas mediante teléfonos inteligentes y drones: una evaluación comparativa de arquitecturas ResNet».
 
