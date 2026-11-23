@@ -5,7 +5,7 @@
 ***
 # Contenido
 
-* [1. Descripción general] (#1-Descripción general)
+#: * [1. Descripción general] (#1-Descripción general)
 ## Contexto de la investigación
 
 # 1. Descripción general
