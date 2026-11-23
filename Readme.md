@@ -6,8 +6,8 @@
 # Contenido
 
 * [1. Descripción general](#1-descripción-general)
-* [2. Descripción general](#1-contexto-de-la-investigación)
-* [2. Contexto de la investigación](#2-contexto de la investigación)
+* [2. Contexto de la investigación](#1-contexto-de-la-investigación)
+
 
 
 # 1. Descripción general
