@@ -38,8 +38,8 @@ El conjunto de datos experimental consta de 2500 imágenes de campo distribuidas
 
 | Clase | Etiqueta | Imagénes |
 | :--- | :---: | ---: |
-| Pest | 1 | 1,250 |
-| Healthy | 0 | 1,250 |
+| Plaga | 1 | 1,250 |
+| Sana | 0 | 1,250 |
 | **Total** | | **2,500** |
 
 
