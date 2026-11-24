@@ -44,7 +44,15 @@ El conjunto de datos experimental consta de 2500 imágenes de campo distribuidas
 
 **Partición del conjunto de datos**
 
-
 El conjunto de datos se dividió mediante muestreo estratificado:
+
+| Subconjunto | POrcentaje | Imagénes |
+| :--- | :---: | ---: |
+| Entrenamiento | 70% | 1,750 |
+| Validación | 15% | 375 |
+| Prueba | 15% | 375 |
+| **Total** | 100% | **2,500** |
+
+
 
 
