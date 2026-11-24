@@ -62,7 +62,7 @@ La normalización de las imágenes se realizó utilizando las medias y desviacio
 
 El aumento de datos se aplicó exclusivamente al subconjunto de entrenamiento con el fin de incrementar la variabilidad visual y reducir el sobreajuste.
 
-Las transformaciones incluyeron:
+Las transformaciones incluyeron: Recorte aleatorio y redimensionamiento, Rotación, Traslación, Escalado, Inversión horizontal, Ajuste de brillo, Ajuste de contraste, Ajuste de saturación y tono, Desenfoque gaussiano.
 
 
 
