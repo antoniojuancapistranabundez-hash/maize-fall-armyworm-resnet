@@ -133,6 +133,8 @@ Se consideraron las siguientes métricas:
 
 * Curva ROC.
 
+La clase «plaga» (etiqueta 1) se definió como la clase positiva.
+
 
 
 
