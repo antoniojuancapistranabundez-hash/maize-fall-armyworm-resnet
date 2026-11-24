@@ -75,6 +75,8 @@ Se evaluaron cuatro arquitecturas ResNet preentrenadas:
 | ResNet-50 | 2048 |
 | ResNet-101 | 2048 |
 
+Todas las arquitecturas utilizaron pesos previamente entrenados de ImageNet y un cabezal de clasificación binaria.
+
 
 
 
