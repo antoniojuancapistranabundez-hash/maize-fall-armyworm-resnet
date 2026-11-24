@@ -11,6 +11,7 @@
 * [4. Preprocesamiento y aumento de imágenes](#4-preprocesamiento-y-aumento-de-imágenes)
 * [5. Arquitecturas de aprendizaje profundo](#5-arquitecturas-de-aprendizaje-profundo)
 * [6. Métricas de evaluación](#6-métricas-de-evaluación)
+* [7. Resultados experimentales](#6--de-evaluación)
 
 
 # 1. Descripción general
@@ -146,7 +147,25 @@ La siguiente tabla resume el rendimiento de clasificación obtenido por las cuat
 | Sensibilidad (%) | **99.47** | **99.47** | **99.47** | 97.86 |
 | Especificidad (%) | 95.21 | 96.81 | 95.21 | **97.34** |
 | Puntuación de F1 (%) | 97.38 | **98.15** | 97.38 | 97.60 |
-| Área bajo la curva AUC (%) | 0.9939 | 0.9964 | 0.9944 | 0.9957 |
+| Área bajo la curva AUC (%) | 0.9939 | **0.9964** | 0.9944 | 0.9957 |
+
+**Principales hallazgos**
+
+ResNet-34 logró el mejor rendimiento de clasificación general, obteniendo:
+
+98,13 % de exactitud.
+
+99,47 % de sensibilidad.
+
+98,15 % de puntuación F1.
+
+0,9964 de AUC.
+
+ResNet-101 alcanzó la mayor precisión y especificidad, llegando en ambos casos al 97,34 %.
+
+Estos resultados indican que aumentar la profundidad de la red no conlleva necesariamente un mejor rendimiento en la clasificación para esta tarea de clasificación binaria de daños en el maíz.
+
+ResNet-34 ofreció el equilibrio general más favorable entre el rendimiento de la clasificación y la complejidad computacional.
 
 
 
