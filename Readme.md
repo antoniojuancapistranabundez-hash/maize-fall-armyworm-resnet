@@ -77,6 +77,22 @@ Se evaluaron cuatro arquitecturas ResNet preentrenadas:
 
 Todas las arquitecturas utilizaron pesos previamente entrenados de ImageNet y un cabezal de clasificación binaria.
 
+**Cabezal de clasificación**
+
+La capa de clasificación original, diseñada para 1.000 clases, fue sustituida por un cabezal de clasificación binaria compuesto por:
+
+Una capa lineal (512 unidades).
+
+Activación ReLU.
+
+Dropout (0,30).
+
+Una capa de salida lineal (1 unidad).
+
+Función sigmoide para la estimación de probabilidades durante la inferencia.
+
+Los vectores de características provenientes de los distintos modelos base (backbones) se proyectaron hacia una representación común de 512 dimensiones.
+
 
 
 
