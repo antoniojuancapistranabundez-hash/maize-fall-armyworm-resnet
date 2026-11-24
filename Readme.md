@@ -8,7 +8,7 @@
 * [1. Descripción general](#1-descripción-general)
 * [2. Contexto de la investigación](#2-contexto-de-la-investigación)
 * [3. Descripción del conjunto de datos](#3-descripción-del-conjunto-de-datos)
-* [4. Preprocesamiento y aumento de imágenes](#4-preprocesamienti-y-aumento-de-imágenes)
+* [4. Preprocesamiento y aumento de imágenes](#4-preprocesamiento-y-aumento-de-imágenes)
 
 
 # 1. Descripción general
@@ -55,6 +55,14 @@ El conjunto de datos se dividió mediante muestreo estratificado:
 | **Total** | 100% | **2,500** |
 
 # 4. Preprocesamiento y aumento de imágenes
+
+Todas las imágenes se redimensionaron a 224 × 224 píxeles para proporcionar una resolución de entrada uniforme a las arquitecturas preentrenadas.
+
+La normalización de las imágenes se realizó utilizando las medias y desviaciones estándar de los canales de ImageNet.
+
+El aumento de datos se aplicó exclusivamente al subconjunto de entrenamiento con el fin de incrementar la variabilidad visual y reducir el sobreajuste.
+
+Las transformaciones incluyeron:
 
 
 
