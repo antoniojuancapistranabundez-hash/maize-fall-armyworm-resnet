@@ -64,6 +64,17 @@ El aumento de datos se aplicó exclusivamente al subconjunto de entrenamiento co
 
 Las transformaciones incluyeron: Recorte aleatorio y redimensionamiento, Rotación, Traslación, Escalado, Inversión horizontal, Ajuste de brillo, Ajuste de contraste, Ajuste de saturación y tono, Desenfoque gaussiano.
 
+# 5. Arquitecturas de aprendizaje profundo
+
+Se evaluaron cuatro arquitecturas ResNet preentrenadas:
+
+| Arquitectura | Dimensiones de las características
+| :--- | :---: |
+| ResNet-18 | 512 |
+| ResNet-34 | 512 |
+| ResNet-50 | 2048 |
+| ResNet-101 | 2048 |
+
 
 
 
