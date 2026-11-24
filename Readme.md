@@ -153,13 +153,13 @@ La siguiente tabla resume el rendimiento de clasificación obtenido por las cuat
 
 ResNet-34 logró el mejor rendimiento de clasificación general, obteniendo:
 
-98,13 % de exactitud.
+* 98,13 % de exactitud.
 
-99,47 % de sensibilidad.
+* 99,47 % de sensibilidad.
 
-98,15 % de puntuación F1.
+* 98,15 % de puntuación F1.
 
-0,9964 de AUC.
+* 0,9964 de AUC.
 
 ResNet-101 alcanzó la mayor precisión y especificidad, llegando en ambos casos al 97,34 %.
 
