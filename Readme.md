@@ -93,6 +93,10 @@ Función sigmoide para la estimación de probabilidades durante la inferencia.
 
 Los vectores de características provenientes de los distintos modelos base (backbones) se proyectaron hacia una representación común de 512 dimensiones.
 
+**Configuración del entrenamiento**
+
+Las cuatro arquitecturas se entrenaron utilizando un protocolo experimental idéntico.
+
 
 
 
