@@ -123,13 +123,13 @@ Se consideraron las siguientes métricas:
 
 * Especificidad.
 
-Puntuación F1.
+* Puntuación F1.
 
-Área bajo la curva ROC (AUC).
+* Área bajo la curva ROC (AUC).
 
-Matriz de confusión.
+* Matriz de confusión.
 
-Curva ROC.
+* Curva ROC.
 
 
 
