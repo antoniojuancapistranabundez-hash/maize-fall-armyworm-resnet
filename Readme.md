@@ -32,5 +32,9 @@ Esta investigación explora técnicas de aprendizaje profundo (*deep learning*) 
 
 Área de estudio: Jojutla, Tlaltizapán, Tlaquiltenango y Xochitepec, Morelos, México.
 
+# 3. Descripción del conjunto de datos
+
+El conjunto de datos experimental consta de 2500 imágenes de campo distribuidas equitativamente entre dos clases.
+
 
 
