@@ -44,6 +44,7 @@ El conjunto de datos experimental consta de 2500 imágenes de campo distribuidas
 
 **Partición del conjunto de datos**
 
+
 El conjunto de datos se dividió mediante muestreo estratificado:
 
 
