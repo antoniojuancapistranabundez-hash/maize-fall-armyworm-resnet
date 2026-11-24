@@ -109,6 +109,30 @@ Las cuatro arquitecturas se entrenaron utilizando un protocolo experimental idé
 | Dropout| 0,30 |
 | Umbral de decisión| 0,50 |
 
+# 6. Métricas de evaluación
+
+Los modelos se evaluaron utilizando el subconjunto de prueba independiente.
+
+Se consideraron las siguientes métricas:
+
+* Exactitud.
+
+* Precisión.
+
+* Sensibilidad (exhaustividad).
+
+* Especificidad.
+
+Puntuación F1.
+
+Área bajo la curva ROC (AUC).
+
+Matriz de confusión.
+
+Curva ROC.
+
+
+
 
 
 
