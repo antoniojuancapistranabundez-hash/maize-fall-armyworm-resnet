@@ -36,5 +36,11 @@ Esta investigación explora técnicas de aprendizaje profundo (*deep learning*) 
 
 El conjunto de datos experimental consta de 2500 imágenes de campo distribuidas equitativamente entre dos clases.
 
+| Clase | Etiqueta | Imagénes |
+| :--- | :---: | ---: |
+| Pest | 1 | 1,250 |
+| Healthy | 0 | 1,250 |
+| **Total** | | **2,500** |
+
 
 
