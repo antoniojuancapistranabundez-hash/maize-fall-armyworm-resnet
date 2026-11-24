@@ -11,7 +11,7 @@
 * [4. Preprocesamiento y aumento de imágenes](#4-preprocesamiento-y-aumento-de-imágenes)
 * [5. Arquitecturas de aprendizaje profundo](#5-arquitecturas-de-aprendizaje-profundo)
 * [6. Métricas de evaluación](#6-métricas-de-evaluación)
-* [7. Resultados experimentales](#6--de-evaluación)
+* [7. Resultados experimentales](#7-Resultados-experimentales)
 
 
 # 1. Descripción general
