@@ -97,6 +97,18 @@ Los vectores de características provenientes de los distintos modelos base (bac
 
 Las cuatro arquitecturas se entrenaron utilizando un protocolo experimental idéntico.
 
+| Parámetro | Configuración
+| :--- | :---: |
+| Pesos preentrenados | ImageNet |
+| Resolución de entrada | 224 × 224 |
+| Tarea de clasificación | Binaria |
+| Función de pérdida| BCEWithLogitsLoss |
+| Optimizador| Adam |
+| Número máximo de épocas| 30 |
+| Paciencia para la detención temprana (early stopping)| 5 |
+| Dropout| 0,30 |
+| Umbral de decisión| 0,50 |
+
 
 
 
