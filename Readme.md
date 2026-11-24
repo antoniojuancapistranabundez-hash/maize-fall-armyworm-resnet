@@ -42,5 +42,8 @@ El conjunto de datos experimental consta de 2500 imágenes de campo distribuidas
 | Sana | 0 | 1,250 |
 | **Total** | | **2,500** |
 
+**Partición del conjunto de datos**
+
+El conjunto de datos se dividió mediante muestreo estratificado:
 
 
