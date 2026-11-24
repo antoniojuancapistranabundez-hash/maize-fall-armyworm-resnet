@@ -143,10 +143,10 @@ La siguiente tabla resume el rendimiento de clasificación obtenido por las cuat
 | :--- | :---: | ---: | ---: | ---: |
 | Exactitud (%) | 97.33 | **98.13** | 97.33 | 97.60 |
 | Precisión (%) | 98.38 | 96.88 | 95.35 | **97.34** |
-| Sensibilidad (%)  **99.47** | **99.47** | **99.47** | 97.86 |
-| Especificidad (%)  95.21 | 96.81 | 95.21 | **97.34** |
-| Puntuación de F1 (%)  97.38 | **98.15** | 97.38 | 97.60 |
-| Área bajo la curva AUC (%)  0.9939 | 0.9964 | 0.9944 | 0.9957 |
+| Sensibilidad (%) | **99.47** | **99.47** | **99.47** | 97.86 |
+| Especificidad (%) | 95.21 | 96.81 | 95.21 | **97.34** |
+| Puntuación de F1 (%) | 97.38 | **98.15** | 97.38 | 97.60 |
+| Área bajo la curva AUC (%) | 0.9939 | 0.9964 | 0.9944 | 0.9957 |
 
 
 
