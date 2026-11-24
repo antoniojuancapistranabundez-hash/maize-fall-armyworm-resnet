@@ -8,6 +8,7 @@
 * [1. Descripción general](#1-descripción-general)
 * [2. Contexto de la investigación](#2-contexto-de-la-investigación)
 * [3. Descripción del conjunto de datos](#3-descripción-del-conjunto-de-datos)
+* [4. Preprocesamiento y aumento de imágenes](#3-preprocesamienti-y-aumento-de-imágenes)
 
 
 # 1. Descripción general
@@ -46,12 +47,14 @@ El conjunto de datos experimental consta de 2500 imágenes de campo distribuidas
 
 El conjunto de datos se dividió mediante muestreo estratificado:
 
-| Subconjunto | POrcentaje | Imagénes |
+| Subconjunto | Porcentaje | Imagénes |
 | :--- | :---: | ---: |
 | Entrenamiento | 70% | 1,750 |
 | Validación | 15% | 375 |
 | Prueba | 15% | 375 |
 | **Total** | 100% | **2,500** |
+
+# 4. Preprocesamiento y aumento de imágenes
 
 
 
